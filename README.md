@@ -1,2 +1,7 @@
-# st.info
-stock info
+수옹아 안뇽
+
+할것들
+# Stock API (완료)
+# 트위터 API (진행중)
+# 크롤링할 대상 검색
+
