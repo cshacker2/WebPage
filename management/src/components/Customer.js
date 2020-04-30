@@ -1,15 +1,14 @@
 import React from 'react';
+
 class Customer extends React.Component {
     render() {
         return (
         <div>
             <CustomerProfile
-              id={this.props.id}
-              img={this.props.img}>
+              id={this.props.id} img={this.props.img}>
             </CustomerProfile>
             <CustomerInfo
-              name={this.props.name} 
-              birth = {this.props.birth} 
+              name={this.props.name} birth = {this.props.birth} 
               gender = {this.props.gender}
               job = {this.props.job}>
             </CustomerInfo>
